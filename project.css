@@ -1,0 +1,31 @@
+body {
+  background-color: #081c15;
+  font-family: Cambria;
+  color: white;
+  margin: 0px;
+}
+
+#container {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+#who {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-size: 100px;
+  text-transform: uppercase;
+  margin: 0px;
+}
+
+#p1 {
+  margin-bottom: 0px;
+}
+
+#hello {
+  text-align: center;
+}

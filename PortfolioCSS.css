@@ -33,6 +33,7 @@ h1 {
 .containter2 {
   width: 550px;
   margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 .intro {
@@ -62,8 +63,7 @@ h1 {
   margin: 0 auto;
 }
 .objectives {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 20px;
 }
 
 #obh2 {

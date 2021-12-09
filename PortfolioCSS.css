@@ -1,12 +1,20 @@
 body {
-  background-color: #081c15;
+  background-color: #1d1e2c;
   font-family: Cambria;
-  color: white;
+  color: #c2d3cd;
   margin: 0px;
 }
 
+div {
+  display: block;
+}
+
+.container1 {
+  width: 850px;
+  margin: 0 auto;
+}
+
 .who {
-  text-align: center;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -18,13 +26,17 @@ h1 {
 }
 
 #journey {
-  margin-bottom: 0px;
+  margin: 0px;
+  color: #847e89;
 }
 
 .containter2 {
-  padding: 20px;
-  width: 520px;
+  width: 550px;
   margin: 0 auto;
+}
+
+.intro {
+  padding: 20px;
 }
 
 #introP1,
@@ -40,5 +52,21 @@ h1 {
 #code:hover {
   font-style: italic;
   font-weight: bolder;
-  color: #52b788;
+  color: #531cb3;
+}
+
+.container3 {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  width: 500px;
+  margin: 0 auto;
+}
+.objectives {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#obh2 {
+  margin: 0px;
+  padding-top: 10px;
 }

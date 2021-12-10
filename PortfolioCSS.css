@@ -36,10 +36,6 @@ h1 {
   padding-bottom: 20px;
 }
 
-.intro {
-  padding: 20px;
-}
-
 #introP1,
 #introP2,
 #introP3 {
@@ -58,15 +54,45 @@ h1 {
 
 .container3 {
   padding-top: 100px;
-  padding-bottom: 20px;
   width: 500px;
   margin: 0 auto;
 }
-.objectives {
+
+.intro,
+.objectives,
+.projects,
+.languages,
+.about {
   padding: 20px;
 }
 
-#obh2 {
+#obh2,
+#proh2,
+#lanh2,
+#abh2 {
   margin: 0px;
   padding-top: 10px;
+}
+
+.container4 {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.container5 {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.container6 {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  width: 640px;
+  margin: 0 auto;
+}
+
+#aboutparagraph {
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }

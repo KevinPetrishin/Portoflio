@@ -43,13 +43,38 @@ h1 {
 }
 
 #code {
+  font-size: 120%;
   font-style: italic;
+  transition: 1s;
 }
 
 #code:hover {
   font-style: italic;
-  font-weight: bolder;
-  color: #531cb3;
+  color: hsl(298, 100%, 50%);
+}
+
+.quotecontainer {
+  height: 150px;
+  width: 300px;
+  position: fixed;
+  top: 50px;
+  right: 40px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+.quotes {
+  padding: 10px;
+  border-style: outset;
+  border-radius: 10px;
+  border-color: rgb(255, 255, 255);
+}
+
+#quote1 {
+  font-size: 200%;
+  font-weight: bold;
+  font-style: italic;
+  margin: 0;
 }
 
 .container3 {

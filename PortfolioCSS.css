@@ -2,7 +2,7 @@ body {
   background-color: #1d1e2c;
   font-family: Cambria;
   color: #c2d3cd;
-  margin: 0px;
+  margin: 0px auto;
 }
 
 div {
@@ -74,7 +74,7 @@ h1 {
   font-size: 200%;
   font-weight: bold;
   font-style: italic;
-  margin: 0;
+  margin: auto;
 }
 
 .container3 {

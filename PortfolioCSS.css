@@ -10,8 +10,9 @@ div {
 }
 
 .container1 {
-  width: 850px;
+  width: 400px;
   margin: 0 auto;
+  transform: translateX(-250px);
 }
 
 .who {
@@ -20,7 +21,7 @@ div {
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 40px;
   text-transform: uppercase;
   margin: 0px;
 }
@@ -33,7 +34,8 @@ h1 {
 .containter2 {
   width: 550px;
   margin: 0 auto;
-  padding-bottom: 20px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 #introP1,
@@ -54,8 +56,9 @@ h1 {
 }
 
 .quotecontainer {
+  display: inline;
   height: 150px;
-  width: 300px;
+  width: 220px;
   position: fixed;
   top: 50px;
   right: 40px;
@@ -69,13 +72,14 @@ h1 {
 }
 
 #quote1 {
-  font-size: 200%;
+  font-size: 1.5rem;
   font-weight: bold;
   font-style: italic;
   margin: auto;
 }
 
 .container3 {
+  padding-bottom: 100px;
   padding-top: 100px;
   width: 500px;
   margin: 0 auto;
@@ -100,16 +104,24 @@ h1 {
 .container4 {
   width: 500px;
   margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#prolist1 {
+  font-weight: bolder;
 }
 
 .container5 {
   width: 500px;
   margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .container6 {
-  padding-top: 100px;
-  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 100px;
   width: 640px;
   margin: 0 auto;
 }

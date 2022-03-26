@@ -65,9 +65,7 @@ h1 {
 
 .quotes {
   padding: 10px;
-  border-style: outset;
-  border-radius: 10px;
-  border-color: rgb(255, 255, 255);
+  border: 4px outset white;
 }
 
 #quote1 {

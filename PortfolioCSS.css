@@ -55,29 +55,6 @@ h1 {
   color: hsl(298, 100%, 50%);
 }
 
-.quotecontainer {
-  display: inline;
-  height: 150px;
-  width: 220px;
-  position: fixed;
-  top: 50px;
-  right: 40px;
-  padding-bottom: 20px;
-  padding-left: 10px;
-}
-
-.quotes {
-  padding: 10px;
-  border: 4px outset white;
-}
-
-#quote1 {
-  font-size: 1.5rem;
-  font-weight: bold;
-  font-style: italic;
-  margin: auto;
-}
-
 .container3 {
   padding-bottom: 100px;
   padding-top: 100px;

@@ -47,7 +47,7 @@ h1 {
 #code {
   font-size: 120%;
   font-style: italic;
-  transition: 1s;
+  transition: 0.5s;
 }
 
 #code:hover {

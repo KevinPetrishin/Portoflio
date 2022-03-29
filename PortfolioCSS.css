@@ -1,8 +1,10 @@
 body {
-  background-color: #1d1e2c;
+  background-image: url(https://wallpaperaccess.com/full/203518.jpg);
+  background-size: cover;
+  background-position: top;
+  image-rendering: crisp-edges;
   font-family: Cambria;
-  color: #c2d3cd;
-  margin: 0px auto;
+  color: #ffffff;
 }
 
 div {
@@ -12,7 +14,8 @@ div {
 .container1 {
   width: 400px;
   margin-top: 20px;
-  transform: translateX(550px);
+  margin: 0 auto;
+  transform: translateX(-250px);
 }
 
 .who {
@@ -39,7 +42,7 @@ h1 {
 }
 
 .intro {
-  width: 570;
+  width: 570px;
 }
 
 #introP1,
@@ -67,20 +70,18 @@ h1 {
   margin: 0 auto;
 }
 
+#oblist1,
+#oblist2,
+#oblist3 {
+  padding: 2px;
+}
+
 .intro,
 .objectives,
 .projects,
 .languages,
 .about {
   padding: 20px;
-}
-
-#obh2,
-#proh2,
-#lanh2,
-#abh2 {
-  margin: 0px;
-  padding-top: 10px;
 }
 
 .container4 {
@@ -99,6 +100,11 @@ h1 {
   margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+#lan1,
+#lan2 {
+  padding: 2px;
 }
 
 .container6 {

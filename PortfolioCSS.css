@@ -2,7 +2,6 @@ body {
   background-image: url(https://wallpaperaccess.com/full/203518.jpg);
   background-size: cover;
   background-position: top;
-  image-rendering: crisp-edges;
   font-family: Cambria;
   color: #ffffff;
 }
@@ -14,8 +13,7 @@ div {
 .container1 {
   width: 400px;
   margin-top: 20px;
-  margin: 0 auto;
-  transform: translateX(-250px);
+  margin-left: 500px;
 }
 
 .who {

@@ -12,9 +12,11 @@ div {
 }
 
 .container1 {
-  width: 400px;
-  margin-top: 20px;
-  margin-left: 500px;
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 
 .who {
@@ -34,14 +36,17 @@ h1 {
 }
 
 .containter2 {
-  width: 600px;
+  width: 560px;
   margin: 0 auto;
   padding-top: 100px;
   padding-bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 
 .intro {
-  width: 570px;
+  width: 520px;
 }
 
 #introP1,
@@ -65,8 +70,15 @@ h1 {
 .container3 {
   padding-bottom: 100px;
   padding-top: 100px;
-  width: 500px;
+  width: 470px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.objectives {
+  width: 430px;
 }
 
 #oblist1,
@@ -84,10 +96,17 @@ h1 {
 }
 
 .container4 {
-  width: 500px;
+  width: 470px;
   margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.projects {
+  width: 430px;
 }
 
 #prolist1 {
@@ -95,10 +114,17 @@ h1 {
 }
 
 .container5 {
-  width: 500px;
+  width: 470px;
   margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.languages {
+  width: 430px;
 }
 
 #lan1,
@@ -109,8 +135,15 @@ h1 {
 .container6 {
   padding-top: 20px;
   padding-bottom: 100px;
-  width: 640px;
+  width: 650px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.about {
+  width: 610px;
 }
 
 #aboutparagraph {
